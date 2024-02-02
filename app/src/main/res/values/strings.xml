@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Serpent Sonata</string>
+    <string name="game_over">GAME OVER</string>
+</resources>
